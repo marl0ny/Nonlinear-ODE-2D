@@ -5,6 +5,8 @@ To obtain this program, first ensure that you already have Python 3 with Numpy, 
 
 ## Usage
 
+<img src="https://raw.githubusercontent.com/marl0ny/Nonlinear-ODE-2D/blob/master/screenshot.PNG" />
+
 To open this program, run the file `tkapp.py`. This launches a GUI window showing a vector field plot of the differential equations with control widgets to the right.
 To plot a trajectory starting from an initial condition, click anywhere on the vector field plot. To increase the speed at which this trajectory is rendered, move the `Set simulation speed` slider, which is found
 near the bottom right of the GUI window. At the top of the GUI window are the two coupled first order differential equations, expressed as
